@@ -1,0 +1,41 @@
+- !<ObjectPrefab/7837be61-add7-44b7-bc7b-a2bd36059e3a>
+  PackagePath: ""
+  objects:
+    - !<own> 3d273aeb-8385-4270-bb1d-5ec23a54ce43
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/3d273aeb-8385-4270-bb1d-5ec23a54ce43>
+  PrefabRemaps:
+    []
+  Name: ScrollBarSlider
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 18.000000, y: -7.000000, z: -0.250000}
+    rotation: {x: -0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 40.000000, y: 40.000000, z: 40.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f49eacee-7127-4046-ad56-ffb1a0e51e01
+- !<RenderMeshVisual/f49eacee-7127-4046-ad56-ffb1a0e51e01>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 12
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> ec486409-0615-4d79-8e1a-c653b813d230
+  Mesh: !<reference> 77f34701-7ad8-4271-83a2-8c6b59699d35
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}

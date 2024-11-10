@@ -1,0 +1,171 @@
+- !<AssetImportMetadata/87aec586-b8ac-4c5b-9ad7-9464a8d9691f>
+  ImportedAssetIds:
+    .hidden/TextureBol: !<reference> 525d65a0-b46e-40d6-990a-e9bb7b8a0059
+    .hidden/white: !<reference> 3052b3b2-b563-4c44-b73d-dac134f8d7a5
+    1c9c1aaf79f2f06e: !<reference> 451985c3-33f7-4a8c-884a-1ac88bba8526
+    7a0dd5cd69df73fa: !<reference> 10367f95-6fce-480d-9fc9-d77116b7db57
+    Materials/TextureBol: !<reference> 90dd66bd-a328-4c52-b628-f3fe8983424b
+    Materials/TextureBol|TextureBol|GraphPassInfo: !<reference> 70971b4b-ca62-42a7-9f8e-31f78df8416b
+    Materials/TextureSoupe: !<reference> 71e2868a-0156-445c-945e-68714de8607d
+    Materials/TextureSoupe|TextureSoupe|GraphPassInfo: !<reference> 99df5f6e-135a-4373-927a-0ab56bea96eb
+    Meshes/Bol_LP: !<reference> 2c6bafa3-aa98-418a-bbc1-cd3543350028
+    Meshes/Soupe_LP: !<reference> 22e4f2a1-c7fc-400b-93f7-8483df577341
+    Scene: !<reference> b5ddbc4a-0a7c-4b39-baca-e3596d5bad32
+    a1a3ba2b7c406b3c: !<reference> 9291db22-e953-4003-b353-0bfbbdc01c21
+    b00c2e96ca16c77f: !<reference> 49844c55-da58-4ecf-9f51-34baf63e36dd
+    b45dc5f01dd356e7: !<reference> 27d7b584-491b-4f93-bf98-aca9695179d3
+    c8f06ab025ee59de: !<reference> c2ccb21d-ce1c-44ea-8620-01fde3a8ec77
+  ImporterName: FbxImporter
+  PrimaryAsset: !<reference> b5ddbc4a-0a7c-4b39-baca-e3596d5bad32
+  PackageType: LegacyPackage
+  PackagePolicy: CanBeUnpacked
+  AssetDataMap:
+    Scene: !<own> 2f3f30d6-f6a5-4d49-8c86-8261402e35ca
+  DependentFiles:
+    []
+  ImporterSettings: !<FbxImporterSettings/30ec5ec2-8f7c-4313-b226-e65e13accb50>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategorySanitize
+    PersistentIdGenerationAlgorithm: DescriptorBased
+    AnimationCurveOptimization: true
+    CustomAnimationSamplingRate: 30.000000
+    ImportVertexColor: true
+    ImportTangentsAndBinormals: true
+    RegenerateTangentsAndBinormals: false
+    RegenerateNormalsForSkinnedMeshes: true
+    ImportBlendShapeAnimation: true
+    ImportVertexAnimation: true
+    GeneratePivots: true
+    TriangulateNURBS: true
+    UseLegacyFbxLoader: false
+  CompressionSettings: !<ComplexCompressionSettings/c39d6b0e-5106-425e-9919-0ae83f074819>
+    Presets:
+      None Compression: !<SingleCompressionSettings/cb91d65a-e29c-45e2-9d1d-1d8868f41f50>
+        CompressorName: None
+        CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+      Performance Compression: !<SingleCompressionSettings/24852230-6bc9-42b2-8aea-0aa1509a90b6>
+        CompressorName: Performance
+        CompressionSettings: !<TextureCompressionSettings/37c9d67d-6a2d-4647-8504-8e5afafa6f95>
+          Level: Medium
+    ExtensionMappings:
+      mesh: None Compression
+      jpg: Performance Compression
+    Overrides:
+      {}
+- !<RenderMeshVisual/10b5f3ec-938a-476c-97ec-7a03638f082f>
+  PrefabRemaps:
+    []
+  Name: component_1
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 71e2868a-0156-445c-945e-68714de8607d
+  Mesh: !<reference> 22e4f2a1-c7fc-400b-93f7-8483df577341
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ObjectPrefabAssetData/2f3f30d6-f6a5-4d49-8c86-8261402e35ca>
+  SourceRemaps:
+    - 10367f95-6fce-480d-9fc9-d77116b7db57: cea217ad-a3aa-4de3-b20a-d4e40fb452f2
+    - 27d7b584-491b-4f93-bf98-aca9695179d3: cff2b6f0-7d06-47ef-aee1-f33612872fa9
+    - 451985c3-33f7-4a8c-884a-1ac88bba8526: f4206e0e-7271-4d0b-9f0d-68f675e83284
+    - 49844c55-da58-4ecf-9f51-34baf63e36dd: 10b5f3ec-938a-476c-97ec-7a03638f082f
+    - 9291db22-e953-4003-b353-0bfbbdc01c21: d156efa4-f901-4bd2-ae46-53b114da8f36
+    - c2ccb21d-ce1c-44ea-8620-01fde3a8ec77: 8aeb845a-3c94-4be6-b835-25d01b0a2407
+  SourceState: !<own> d24dec1c-c4d8-4b75-8544-5613d2c3f8ee
+- !<SceneObject/8aeb845a-3c94-4be6-b835-25d01b0a2407>
+  PrefabRemaps:
+    []
+  Name: Bol_LP
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.277700, y: 1.184941, z: -0.153563}
+    rotation: {x: -0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 2.397159, y: 0.245155, z: 2.397159}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> d156efa4-f901-4bd2-ae46-53b114da8f36
+- !<SceneObject/cea217ad-a3aa-4de3-b20a-d4e40fb452f2>
+  PrefabRemaps:
+    []
+  Name: Ramen Image Paste
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> f4206e0e-7271-4d0b-9f0d-68f675e83284
+  Components:
+    []
+- !<SceneObject/cff2b6f0-7d06-47ef-aee1-f33612872fa9>
+  PrefabRemaps:
+    []
+  Name: Soupe_LP
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.314578, y: 4.683450, z: -0.192273}
+    rotation: {x: -0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 0.905456, y: 0.905456, z: 0.905456}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 10b5f3ec-938a-476c-97ec-7a03638f082f
+- !<RenderMeshVisual/d156efa4-f901-4bd2-ae46-53b114da8f36>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 90dd66bd-a328-4c52-b628-f3fe8983424b
+  Mesh: !<reference> 2c6bafa3-aa98-418a-bbc1-cd3543350028
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ObjectPrefab/d24dec1c-c4d8-4b75-8544-5613d2c3f8ee>
+  PackagePath: ""
+  objects:
+    - !<own> cea217ad-a3aa-4de3-b20a-d4e40fb452f2
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/f4206e0e-7271-4d0b-9f0d-68f675e83284>
+  PrefabRemaps:
+    []
+  Name: Ramen_LP
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: -1.007493, z: 0.000000}
+    rotation: {x: -0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 8aeb845a-3c94-4be6-b835-25d01b0a2407
+    - !<own> cff2b6f0-7d06-47ef-aee1-f33612872fa9
+  Components:
+    []

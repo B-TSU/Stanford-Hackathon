@@ -1,0 +1,101 @@
+- !<AssetImportMetadata/3e893393-7c29-4969-a652-6440ad0185c4>
+  ImportedAssetIds:
+    .hidden/main: !<reference> 275d6230-8fad-4abd-8b10-6f0bf4d3492b
+    .hidden/white: !<reference> 555fde06-bbc0-4521-b1b9-2196a0aabf3e
+    08b339439aab27a4: !<reference> c5d9c67f-cfc1-4ef5-b115-83a5957b67c7
+    7a0dd5cd69df73fa: !<reference> dadc12cd-8a4f-4196-a15f-54c558588dd9
+    Materials/main: !<reference> 543ac808-eb8c-4c33-a40b-c4ef3bbaba5a
+    Materials/main|main|GraphPassInfo: !<reference> 478b97ec-ccfd-4525-b180-2b3d9a68dd7d
+    Meshes/mesh: !<reference> e638eff8-c01c-49f9-b22c-ba498d2de646
+    Scene: !<reference> 19efdc8f-aea5-4d55-8bfb-fb472edd331a
+    dcf667e874072d01: !<reference> 21d7368c-a057-4070-8e4b-a58410ce2415
+  ImporterName: ObjImporter
+  PrimaryAsset: !<reference> 19efdc8f-aea5-4d55-8bfb-fb472edd331a
+  PackageType: LegacyPackage
+  PackagePolicy: CanBeUnpacked
+  AssetDataMap:
+    Scene: !<own> 031e7020-bbfa-4e3f-95b7-82ac64222bc8
+  DependentFiles:
+    - Scaniverse.jpg
+    - Scaniverse.mtl
+  ImporterSettings: !<D3FileImporterSettingsBase/2ddff229-3d9b-45ff-a1f4-d10c746bd9d3>
+    UseLegacyImporter: true
+    WithMaterials: true
+    NamingConvention: ByCategorySanitize
+    PersistentIdGenerationAlgorithm: DescriptorBased
+  CompressionSettings: !<ComplexCompressionSettings/ec979130-2574-4925-8162-62e8b1d9b1f6>
+    Presets:
+      Performance Compression: !<SingleCompressionSettings/7909ded9-11b1-4bcb-862d-26dfaadb147d>
+        CompressorName: Performance
+        CompressionSettings: !<TextureCompressionSettings/8dc2fbf3-76c7-42fd-890a-7637348c8dc2>
+          Level: Medium
+      None Compression: !<SingleCompressionSettings/3dbf3cba-061a-426c-ac74-a5425093f0dd>
+        CompressorName: None
+        CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+    ExtensionMappings:
+      jpg: Performance Compression
+      mesh: None Compression
+    Overrides:
+      {}
+- !<RenderMeshVisual/0066ce44-27a5-4489-bffc-dcc1d3879874>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 543ac808-eb8c-4c33-a40b-c4ef3bbaba5a
+  Mesh: !<reference> e638eff8-c01c-49f9-b22c-ba498d2de646
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ObjectPrefabAssetData/031e7020-bbfa-4e3f-95b7-82ac64222bc8>
+  SourceRemaps:
+    - 21d7368c-a057-4070-8e4b-a58410ce2415: 0066ce44-27a5-4489-bffc-dcc1d3879874
+    - c5d9c67f-cfc1-4ef5-b115-83a5957b67c7: 63723fa3-6151-4141-a70a-4d2936a31a18
+    - dadc12cd-8a4f-4196-a15f-54c558588dd9: e5d53d94-7a5a-4958-961a-c533c8e2ea27
+  SourceState: !<own> 27ec52c4-f20f-44ea-8c83-b4aef8496b16
+- !<ObjectPrefab/27ec52c4-f20f-44ea-8c83-b4aef8496b16>
+  PackagePath: ""
+  objects:
+    - !<own> e5d53d94-7a5a-4958-961a-c533c8e2ea27
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/63723fa3-6151-4141-a70a-4d2936a31a18>
+  PrefabRemaps:
+    []
+  Name: mesh
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 0066ce44-27a5-4489-bffc-dcc1d3879874
+- !<SceneObject/e5d53d94-7a5a-4958-961a-c533c8e2ea27>
+  PrefabRemaps:
+    []
+  Name: Scaniverse
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 63723fa3-6151-4141-a70a-4d2936a31a18
+  Components:
+    []

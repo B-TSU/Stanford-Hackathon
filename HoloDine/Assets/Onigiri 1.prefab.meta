@@ -1,0 +1,783 @@
+- !<AssetImportMetadata/208fd435-8413-43b9-abf1-16469992cec6>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> 31c3ed39-69d2-4f5b-98c3-325e96ab168f
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> 31c3ed39-69d2-4f5b-98c3-325e96ab168f
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    ObjectPrefab: !<own> 5019149e-ef13-426c-81aa-2d6487d3cc63
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/b73bfeec-7d5e-4f71-9034-8bc739cdc17a>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<RenderMeshVisual/05809716-6fb3-4f5b-aa45-ad908e596b78>
+  PrefabRemaps:
+    []
+  Name: seaweed001_seaweed_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 0554045c-f1b1-48fe-bf90-b7f3b366bc82
+  Mesh: !<reference> adb89918-b527-4375-bdb0-dbeabb29fa36
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/05b828aa-933c-436d-883d-b33c975e64a4>
+  PrefabRemaps:
+    []
+  Name: wood_wood_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e17d698a-e4b9-43cf-9463-f7ab6db09709
+  Mesh: !<reference> 58cb5ba7-4aba-4ae1-83bf-8fde9992e097
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/11675b49-7bd2-403f-aa95-c2398e03b66e>
+  PrefabRemaps:
+    []
+  Name: rice002_rice_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 8345ceff-10c5-4f62-b491-dd8f7f32109d
+  Mesh: !<reference> c9ac465b-ca85-40f5-a62a-fa607e835fbf
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/2761ffb9-3b55-491e-8971-29e358a450e8>
+  PrefabRemaps:
+    []
+  Name: rice002_rice_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 8345ceff-10c5-4f62-b491-dd8f7f32109d
+  Mesh: !<reference> e98214bc-a5a1-4a7d-877b-482c9cf2714f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/333bb7fa-afe6-4c25-9249-20ac1eb83d94>
+  PrefabRemaps:
+    []
+  Name: rice001_rice_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 8345ceff-10c5-4f62-b491-dd8f7f32109d
+  Mesh: !<reference> 485bd627-6a2a-445d-a9b4-2f1da6d11133
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/3c7ab2b3-eece-4070-88eb-95fe4dca1876>
+  PrefabRemaps:
+    []
+  Name: rice001_rice_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -3.616850, y: -0.000006, z: -0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 49f66f1c-f30c-447f-83f3-1281cb4a334c
+- !<SceneObject/3f5335c5-0e0d-4877-9216-758a10be254e>
+  PrefabRemaps:
+    []
+  Name: wood_wood_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -2.962749, y: 2.074540, z: -0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 05b828aa-933c-436d-883d-b33c975e64a4
+- !<RenderMeshVisual/41622d56-eba4-4a2d-b8b8-c2ae01af4bbd>
+  PrefabRemaps:
+    []
+  Name: seaweed002_seaweed_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 0554045c-f1b1-48fe-bf90-b7f3b366bc82
+  Mesh: !<reference> d8750aa3-160a-4df3-a4ab-804ec4f4da62
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/49f66f1c-f30c-447f-83f3-1281cb4a334c>
+  PrefabRemaps:
+    []
+  Name: rice001_rice_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 8345ceff-10c5-4f62-b491-dd8f7f32109d
+  Mesh: !<reference> b910f47d-7b49-4429-a0ed-b4679a9528f5
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ObjectPrefabAssetData/5019149e-ef13-426c-81aa-2d6487d3cc63>
+  SourceRemaps:
+    - 08bb8737-0645-48b5-b33b-b427533e5bf9: 8d88ddda-c5bc-4e6b-bd50-1a949c011a49
+    - 092d0e11-4369-455c-b808-9e5651eb8bdd: 90559f17-fbcd-44ea-806b-de2fd9443426
+    - 0fad5ff5-92d3-4e01-8854-631e2b58e960: 77081124-68b6-4e26-94cd-bcd9b5a2f2e7
+    - 176604ae-0529-4d4c-80b4-de5aa58cd1b2: 756141f4-bbb2-4cd1-9a98-a7c9c52cc7a7
+    - 1d1bc269-38e2-48ae-aca3-d4279b52a766: 05809716-6fb3-4f5b-aa45-ad908e596b78
+    - 1de82e29-7eed-47f0-98ce-caefa0f6a7d1: 76cedb40-74d7-45e1-b788-b9358c49bf54
+    - 23487de7-60c6-4d7d-a258-d6c9a43ba350: 93599246-755a-4162-a52c-afdc6a1927f6
+    - 242b6962-f64c-491a-bd16-3533b2a17db7: 7f7ee8b0-ab24-4b28-acda-a2a974c353c4
+    - 26f774c6-4864-43f8-8fd5-1abdbb3a89b5: 3c7ab2b3-eece-4070-88eb-95fe4dca1876
+    - 276c32fb-3528-40a5-991b-520e23be0487: 2761ffb9-3b55-491e-8971-29e358a450e8
+    - 369970ec-5536-49f1-a4c0-bbf83e5e7aee: e63bc607-1839-4acb-b11b-cd2c4b995ff0
+    - 52e1210c-4393-47b8-b317-ffec9d73ce51: 5c2bc445-2991-4346-ae70-e6b311523585
+    - 5e94fb1e-0319-4b4c-99b1-c007a1662d12: f730c86a-2467-48f9-98fa-7b98db70f979
+    - 644bfa76-6ca9-48b8-856b-a64d0a772df9: a3018442-3bb4-4bd2-be49-1e36a12230c1
+    - 7352a309-d958-49c1-bf17-d66729d4f064: 49f66f1c-f30c-447f-83f3-1281cb4a334c
+    - 74ef5c99-3c55-405f-bdfd-96e842ce2f62: 71d0d19c-3255-4314-8a45-d801ec6c8ab3
+    - 7a81760b-631c-4111-94bc-c7a481be0f3a: f3528470-af86-49b3-a6b0-3fedeb93a51c
+    - 7ba7511c-1af6-4caa-8dce-84248ba9b52c: aea7fabc-9dbd-4984-947b-0eb1e2880434
+    - 7eb58842-e41a-40e3-8874-682bec0052aa: 7974433e-bea9-4c4e-a489-416169210102
+    - 80a46703-0cfb-4a85-bbe6-93f7d608b02e: 41622d56-eba4-4a2d-b8b8-c2ae01af4bbd
+    - 8107d3ec-c37c-495c-8839-09093c3ef07c: f0bd922e-05f4-42d4-a3c7-3e9b0a7a26ca
+    - 8cdcc560-29b0-4f09-a87e-2e30059ca1aa: 8248f1c7-a19e-4f61-afa1-c83e671f9d7c
+    - 8d876d80-25df-4c44-841f-735cf5241785: ab2fada0-6451-4e01-8ddd-7f5444634970
+    - 916020ec-7fba-4c48-9a02-31d477319255: 73b5c97b-2d1a-47e0-bed0-f40db0ecec0f
+    - 967e5def-cff4-4650-9a72-bb197ef469a8: c8529a0b-ec3a-47c0-a71e-997297c74e78
+    - a2c4138e-76e5-4c11-a9b5-9c2954c6d750: 11675b49-7bd2-403f-aa95-c2398e03b66e
+    - aa79f526-09d2-405b-859d-f46091fa6ec2: c20ba6e3-78ed-48b9-b3a1-30b4575f73ac
+    - b522ec58-1b25-4335-8d94-3dc9a37fe9ae: bb13c89a-4013-404a-9ab4-e01a955e8489
+    - b69281b4-3d6a-47c2-8971-f47c864c51f8: d5f38210-6ed7-4bdd-9321-5ac9943626aa
+    - b83c25c7-28dc-4311-bf7a-157fe9350090: 3f5335c5-0e0d-4877-9216-758a10be254e
+    - d4350fd9-32c3-4b64-82d5-d14f076a77d3: d5b9eb99-d5a2-4f79-aa70-1b05152d6c4d
+    - e76f9f95-1931-4cba-a36d-fa537fe53df3: aa33dadf-b2d2-4c46-8c7c-a859e3b1b78a
+    - ed48508b-51fd-43ee-b705-62ee341699a4: f2b936a1-a603-446a-8179-1c525a08a741
+    - efd1fe8d-af97-480e-9d47-0501f6a59516: 9f265c82-d2a9-4a45-b8d3-c68d5d4e01db
+    - f27b37cf-8f59-47f9-ad2c-cc5070190d43: f41d5dda-dede-43b1-91e5-ea58d20975e1
+    - f51bf79a-898c-4f25-a8e4-405bfce98d66: d8f1aa18-c48a-4b15-8808-4bf65dfcb14b
+    - f8124660-dad8-4374-8ffd-4586b23381ff: aa1ed762-77bf-4537-9bcb-47b8ff1cb43d
+    - f8e0cd77-8442-4894-973e-cdd0e39291e6: 05b828aa-933c-436d-883d-b33c975e64a4
+    - fbb45e81-0395-4d64-bd6a-0b8752ce0a58: 333bb7fa-afe6-4c25-9249-20ac1eb83d94
+    - fe0d2981-d496-434b-93eb-d04659105234: 998d136d-7152-490b-95bc-906b7c668d30
+  SourceState: !<own> 9b0f843c-a338-4d5e-8cc5-c4302cbc3aac
+- !<SceneObject/5c2bc445-2991-4346-ae70-e6b311523585>
+  PrefabRemaps:
+    []
+  Name: rice001_rice_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -3.616850, y: -0.000006, z: -0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 333bb7fa-afe6-4c25-9249-20ac1eb83d94
+- !<RenderMeshVisual/71d0d19c-3255-4314-8a45-d801ec6c8ab3>
+  PrefabRemaps:
+    []
+  Name: rice002_rice_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 8345ceff-10c5-4f62-b491-dd8f7f32109d
+  Mesh: !<reference> 425ec55b-9b68-49f4-8e72-0e63a983306f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/73b5c97b-2d1a-47e0-bed0-f40db0ecec0f>
+  PrefabRemaps:
+    []
+  Name: rice002_rice_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 8345ceff-10c5-4f62-b491-dd8f7f32109d
+  Mesh: !<reference> 78625826-cef2-478c-ae98-6cf13cde5fbf
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<Text/756141f4-bbb2-4cd1-9a98-a7c9c52cc7a7>
+  PrefabRemaps:
+    []
+  Name: Text
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Text: Onigiri
+  Editable: false
+  ShowEditingPreview: true
+  TouchHandler: !<reference> 00000000-0000-0000-0000-000000000000
+  SizeToFit: false
+  FontSize: 96
+  Font: !<reference> 00000000-0000-0000-0000-000000000000
+  LayoutRect:
+    left: -7.500000
+    bottom: -2.250000
+    right: 7.500000
+    top: 2.250000
+  OverflowVertical: Overflow
+  OverflowHorizontal: Overflow
+  Fill: !<TextFill/00000000-0000-0000-0000-000000000000>
+    Mode: Solid
+    Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    Texture: !<reference> 00000000-0000-0000-0000-000000000000
+  Outline: !<OutlineSettings/00000000-0000-0000-0000-000000000000>
+    Enabled: false
+    Fill: !<TextFill/00000000-0000-0000-0000-000000000000>
+      Mode: Solid
+      Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+      Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    Size: 0.250000
+  Dropshadow: !<DropshadowSettings/00000000-0000-0000-0000-000000000000>
+    Enabled: false
+    Fill: !<TextFill/00000000-0000-0000-0000-000000000000>
+      Mode: Solid
+      Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+      Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    OffsetX: 0.250000
+    OffsetY: 0.250000
+  Background: !<BackgroundSettings/00000000-0000-0000-0000-000000000000>
+    Enabled: false
+    Fill: !<TextFill/00000000-0000-0000-0000-000000000000>
+      Mode: Solid
+      Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+      Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    Margins:
+      left: 0.000000
+      bottom: 0.000000
+      right: 0.000000
+      top: 0.000000
+    CornerRadius: 0.000000
+  AdvancedLayout: !<TextAdvancedLayout/00000000-0000-0000-0000-000000000000>
+    ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+    LetterSpacing: 0.000000
+    LineSpacing: 1.000000
+    CapitalizationOverride: None
+  DepthTest: false
+- !<SceneObject/76cedb40-74d7-45e1-b788-b9358c49bf54>
+  PrefabRemaps:
+    []
+  Name: rice002_rice_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -3.616850, y: 0.000003, z: -0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 11675b49-7bd2-403f-aa95-c2398e03b66e
+- !<SceneObject/77081124-68b6-4e26-94cd-bcd9b5a2f2e7>
+  PrefabRemaps:
+    []
+  Name: rice002_rice_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -3.616850, y: 0.000003, z: -0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 2761ffb9-3b55-491e-8971-29e358a450e8
+- !<SceneObject/7974433e-bea9-4c4e-a489-416169210102>
+  PrefabRemaps:
+    []
+  Name: Sketchfab_Scene
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> f2b936a1-a603-446a-8179-1c525a08a741
+  Components:
+    - !<own> e63bc607-1839-4acb-b11b-cd2c4b995ff0
+- !<SceneObject/7f7ee8b0-ab24-4b28-acda-a2a974c353c4>
+  PrefabRemaps:
+    []
+  Name: Scenes
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 7974433e-bea9-4c4e-a489-416169210102
+  Components:
+    []
+- !<SceneObject/8248f1c7-a19e-4f61-afa1-c83e671f9d7c>
+  PrefabRemaps:
+    []
+  Name: a8b1b12496bb49038797c9b614a3ab2a.fbx
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.010000, y: 0.010000, z: 0.010000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 998d136d-7152-490b-95bc-906b7c668d30
+    - !<own> ab2fada0-6451-4e01-8ddd-7f5444634970
+  Components:
+    []
+- !<SceneObject/8d88ddda-c5bc-4e6b-bd50-1a949c011a49>
+  PrefabRemaps:
+    []
+  Name: rice001_rice_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -3.616850, y: -0.000006, z: -0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> c8529a0b-ec3a-47c0-a71e-997297c74e78
+- !<SceneObject/90559f17-fbcd-44ea-806b-de2fd9443426>
+  PrefabRemaps:
+    []
+  Name: rice002
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -1.432212, y: 3.378009, z: 0.549851}
+    rotation: {x: -90.000000, y: -35.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> f41d5dda-dede-43b1-91e5-ea58d20975e1
+    - !<own> 76cedb40-74d7-45e1-b788-b9358c49bf54
+    - !<own> 77081124-68b6-4e26-94cd-bcd9b5a2f2e7
+    - !<own> 9f265c82-d2a9-4a45-b8d3-c68d5d4e01db
+    - !<own> f3528470-af86-49b3-a6b0-3fedeb93a51c
+    - !<own> aa33dadf-b2d2-4c46-8c7c-a859e3b1b78a
+  Components:
+    []
+- !<SceneObject/93599246-755a-4162-a52c-afdc6a1927f6>
+  PrefabRemaps:
+    []
+  Name: seaweed002_seaweed_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 3.616848, y: -0.000003, z: -0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 41622d56-eba4-4a2d-b8b8-c2ae01af4bbd
+- !<SceneObject/998d136d-7152-490b-95bc-906b7c668d30>
+  PrefabRemaps:
+    []
+  Name: RootNode
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> bb13c89a-4013-404a-9ab4-e01a955e8489
+    - !<own> f0bd922e-05f4-42d4-a3c7-3e9b0a7a26ca
+    - !<own> 90559f17-fbcd-44ea-806b-de2fd9443426
+  Components:
+    []
+- !<ObjectPrefab/9b0f843c-a338-4d5e-8cc5-c4302cbc3aac>
+  PackagePath: ""
+  objects:
+    - !<own> a3018442-3bb4-4bd2-be49-1e36a12230c1
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/9f265c82-d2a9-4a45-b8d3-c68d5d4e01db>
+  PrefabRemaps:
+    []
+  Name: rice002_rice_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -3.616850, y: 0.000003, z: -0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> d5b9eb99-d5a2-4f79-aa70-1b05152d6c4d
+- !<SceneObject/a3018442-3bb4-4bd2-be49-1e36a12230c1>
+  PrefabRemaps:
+    []
+  Name: Onigiri 1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 24.508165, y: -6.418130, z: -66.159698}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 7f7ee8b0-ab24-4b28-acda-a2a974c353c4
+  Components:
+    []
+- !<SceneObject/aa1ed762-77bf-4537-9bcb-47b8ff1cb43d>
+  PrefabRemaps:
+    []
+  Name: rice001_rice_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -3.616850, y: -0.000006, z: -0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> d5f38210-6ed7-4bdd-9321-5ac9943626aa
+- !<SceneObject/aa33dadf-b2d2-4c46-8c7c-a859e3b1b78a>
+  PrefabRemaps:
+    []
+  Name: seaweed002
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.100168, y: 0.084389, z: -0.406627}
+    rotation: {x: -0.000000, y: -0.000000, z: 180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 93599246-755a-4162-a52c-afdc6a1927f6
+  Components:
+    []
+- !<SceneObject/ab2fada0-6451-4e01-8ddd-7f5444634970>
+  PrefabRemaps:
+    []
+  Name: Text
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -2.962749, y: 9.768938, z: -2.074539}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 756141f4-bbb2-4cd1-9a98-a7c9c52cc7a7
+- !<SceneObject/aea7fabc-9dbd-4984-947b-0eb1e2880434>
+  PrefabRemaps:
+    []
+  Name: seaweed001
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.027122, y: -0.097400, z: -0.406627}
+    rotation: {x: 0.000000, y: -0.000000, z: -0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> c20ba6e3-78ed-48b9-b3a1-30b4575f73ac
+  Components:
+    []
+- !<SceneObject/bb13c89a-4013-404a-9ab4-e01a955e8489>
+  PrefabRemaps:
+    []
+  Name: wood
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.400000, y: 0.000000, z: 0.000000}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 3f5335c5-0e0d-4877-9216-758a10be254e
+  Components:
+    []
+- !<SceneObject/c20ba6e3-78ed-48b9-b3a1-30b4575f73ac>
+  PrefabRemaps:
+    []
+  Name: seaweed001_seaweed_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -3.616850, y: -0.000004, z: -0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 05809716-6fb3-4f5b-aa45-ad908e596b78
+- !<RenderMeshVisual/c8529a0b-ec3a-47c0-a71e-997297c74e78>
+  PrefabRemaps:
+    []
+  Name: rice001_rice_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 8345ceff-10c5-4f62-b491-dd8f7f32109d
+  Mesh: !<reference> 29c4591d-3386-4222-b51a-6c80b452b3d1
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/d5b9eb99-d5a2-4f79-aa70-1b05152d6c4d>
+  PrefabRemaps:
+    []
+  Name: rice002_rice_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 8345ceff-10c5-4f62-b491-dd8f7f32109d
+  Mesh: !<reference> 96a5f89f-875e-4f72-b0a5-bd69b1320a36
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/d5f38210-6ed7-4bdd-9321-5ac9943626aa>
+  PrefabRemaps:
+    []
+  Name: rice001_rice_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 8345ceff-10c5-4f62-b491-dd8f7f32109d
+  Mesh: !<reference> 693b43c4-fecf-4423-b5ad-85f578405029
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/d8f1aa18-c48a-4b15-8808-4bf65dfcb14b>
+  PrefabRemaps:
+    []
+  Name: rice001_rice_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 8345ceff-10c5-4f62-b491-dd8f7f32109d
+  Mesh: !<reference> 86026b31-5b08-426c-a642-053e94aa6af5
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<AnimationPlayer/e63bc607-1839-4acb-b11b-cd2c4b995ff0>
+  PrefabRemaps:
+    []
+  Name: component_19
+  Enabled: true
+  Autoplay: true
+  ClipRangeType: Frames
+  AnimationClips:
+    []
+- !<SceneObject/f0bd922e-05f4-42d4-a3c7-3e9b0a7a26ca>
+  PrefabRemaps:
+    []
+  Name: rice001
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 1.252708, y: 3.378009, z: -0.431820}
+    rotation: {x: -90.000000, y: -35.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 3c7ab2b3-eece-4070-88eb-95fe4dca1876
+    - !<own> 5c2bc445-2991-4346-ae70-e6b311523585
+    - !<own> aa1ed762-77bf-4537-9bcb-47b8ff1cb43d
+    - !<own> f730c86a-2467-48f9-98fa-7b98db70f979
+    - !<own> 8d88ddda-c5bc-4e6b-bd50-1a949c011a49
+    - !<own> aea7fabc-9dbd-4984-947b-0eb1e2880434
+  Components:
+    []
+- !<SceneObject/f2b936a1-a603-446a-8179-1c525a08a741>
+  PrefabRemaps:
+    []
+  Name: Sketchfab_model
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 8248f1c7-a19e-4f61-afa1-c83e671f9d7c
+  Components:
+    []
+- !<SceneObject/f3528470-af86-49b3-a6b0-3fedeb93a51c>
+  PrefabRemaps:
+    []
+  Name: rice002_rice_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -3.616850, y: 0.000003, z: -0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 71d0d19c-3255-4314-8a45-d801ec6c8ab3
+- !<SceneObject/f41d5dda-dede-43b1-91e5-ea58d20975e1>
+  PrefabRemaps:
+    []
+  Name: rice002_rice_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -3.616850, y: 0.000003, z: -0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 73b5c97b-2d1a-47e0-bed0-f40db0ecec0f
+- !<SceneObject/f730c86a-2467-48f9-98fa-7b98db70f979>
+  PrefabRemaps:
+    []
+  Name: rice001_rice_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -3.616850, y: -0.000006, z: -0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> d8f1aa18-c48a-4b15-8808-4bf65dfcb14b
